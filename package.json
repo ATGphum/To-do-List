@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A simple list to store things to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhumLWC/To-do-List.git"
+  },
+  "author": "PhumLWC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhumLWC/To-do-List/issues"
+  },
+  "homepage": "https://github.com/PhumLWC/To-do-List#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
